@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew C. Forrester</title>
+    <link>https://acforrester.github.io/</link>
+      <atom:link href="https://acforrester.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew C. Forrester</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://acforrester.github.io/images/icon_hub1d283e7fd1ccadb4128d968482be33b_7703_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrew C. Forrester</title>
+      <link>https://acforrester.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Immigrants Do Not Negatively Affect the Economic Institutions of American States</title>
+      <link>https://acforrester.github.io/publication/spending-paper/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/spending-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small Business Administration (SBA) Data</title>
+      <link>https://acforrester.github.io/project/sba-data/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/project/sba-data/</guid>
+      <description>&lt;p&gt;A few recent papers on banking rely on data acquired from the Small Business Administration (SBA), which provide a register of loans guaranteed by the SBA by county by year.  My objective is to clean up these data to include project state/county FIPS codes and ID&amp;rsquo;s to match banks (&lt;code&gt;RSSD&lt;/code&gt;, &lt;code&gt;CERT&lt;/code&gt;, and, possibly, &lt;code&gt;HMDAID&lt;/code&gt;&amp;rsquo;s).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Illegal Immigration and Crime in Texas</title>
+      <link>https://acforrester.github.io/publication/texas-crime-paper/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/texas-crime-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Reinvestment Act Disclosure Data</title>
+      <link>https://acforrester.github.io/project/cra-data/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/project/cra-data/</guid>
+      <description>&lt;p&gt;The objective of this project is to convert the Community Reinvestment Act (CRA) data from fixed-width form into accessible CSV&amp;rsquo;s.  The CRA data are a widely used in the finance literature as a local measure of small business and small farm lending.  While the CRA disclosure data do not comprehensively cover small business or small farm lending, Greenstone, Mas, and Nguyen (2020) estimate that &amp;ldquo;CRA eligible banks accounted for approximately 86 percent of all loans under $1 million.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FFIEC Census Data</title>
+      <link>https://acforrester.github.io/project/ffiec-census/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/project/ffiec-census/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How U.S. Travel Restrictions on China Affected the Spread of COVID-19 in the United States</title>
+      <link>https://acforrester.github.io/publication/covid-19-paper/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/covid-19-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Mass Immigration Affects Countries with Weak Economic Institutions: A Natural Experiment in Jordan</title>
+      <link>https://acforrester.github.io/publication/jordan-institutions/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/jordan-institutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of the Community Reinvestment Act on Neighborhood Gentrification</title>
+      <link>https://acforrester.github.io/publication/cra-gentrification-dc/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/cra-gentrification-dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financing Immigration: The Financial‐​Market Value of a Market‐​Based Immigration System</title>
+      <link>https://acforrester.github.io/publication/policy-financing/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/policy-financing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immigrants Recognize American Greatness: Immigrants and Their Descendants Are Patriotic and Trust America’s Governing Institutions</title>
+      <link>https://acforrester.github.io/publication/policy-patriotism/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/policy-patriotism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immigrant Wages Converge with Those of Native‐​Born Americans</title>
+      <link>https://acforrester.github.io/publication/policy-wages/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/policy-wages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

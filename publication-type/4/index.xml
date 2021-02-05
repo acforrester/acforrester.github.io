@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Andrew C. Forrester</title>
+    <link>https://acforrester.github.io/publication-type/4/</link>
+      <atom:link href="https://acforrester.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://acforrester.github.io/images/icon_hub1d283e7fd1ccadb4128d968482be33b_7703_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>https://acforrester.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Financing Immigration: The Financial‐​Market Value of a Market‐​Based Immigration System</title>
+      <link>https://acforrester.github.io/publication/policy-financing/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/policy-financing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immigrants Recognize American Greatness: Immigrants and Their Descendants Are Patriotic and Trust America’s Governing Institutions</title>
+      <link>https://acforrester.github.io/publication/policy-patriotism/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/policy-patriotism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immigrant Wages Converge with Those of Native‐​Born Americans</title>
+      <link>https://acforrester.github.io/publication/policy-wages/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/policy-wages/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

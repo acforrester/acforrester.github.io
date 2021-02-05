@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diego Zuluaga | Andrew C. Forrester</title>
+    <link>https://acforrester.github.io/author/diego-zuluaga/</link>
+      <atom:link href="https://acforrester.github.io/author/diego-zuluaga/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diego Zuluaga</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://acforrester.github.io/images/icon_hub1d283e7fd1ccadb4128d968482be33b_7703_512x512_fill_lanczos_center_2.png</url>
+      <title>Diego Zuluaga</title>
+      <link>https://acforrester.github.io/author/diego-zuluaga/</link>
+    </image>
+    
+    <item>
+      <title>The Impact of the Community Reinvestment Act on Neighborhood Gentrification</title>
+      <link>https://acforrester.github.io/publication/cra-gentrification-dc/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/publication/cra-gentrification-dc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

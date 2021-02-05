@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lending | Andrew C. Forrester</title>
+    <link>https://acforrester.github.io/tag/lending/</link>
+      <atom:link href="https://acforrester.github.io/tag/lending/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lending</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://acforrester.github.io/images/icon_hub1d283e7fd1ccadb4128d968482be33b_7703_512x512_fill_lanczos_center_2.png</url>
+      <title>Lending</title>
+      <link>https://acforrester.github.io/tag/lending/</link>
+    </image>
+    
+    <item>
+      <title>Small Business Administration (SBA) Data</title>
+      <link>https://acforrester.github.io/project/sba-data/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://acforrester.github.io/project/sba-data/</guid>
+      <description>&lt;p&gt;A few recent papers on banking rely on data acquired from the Small Business Administration (SBA), which provide a register of loans guaranteed by the SBA by county by year.  My objective is to clean up these data to include project state/county FIPS codes and ID&amp;rsquo;s to match banks (&lt;code&gt;RSSD&lt;/code&gt;, &lt;code&gt;CERT&lt;/code&gt;, and, possibly, &lt;code&gt;HMDAID&lt;/code&gt;&amp;rsquo;s).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
